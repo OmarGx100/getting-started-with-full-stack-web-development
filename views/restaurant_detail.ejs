@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%- include('./include/head') %>
+  <body>
+    <%- include('./include/headers') %>
+    <%- include('./include/side-drawer') %>
+    <main>
+      <h1> <%= resturant.name %></h1>
+      <p><%= resturant.address %> <%= resturant.cuisine %></p>
+      <p><%= resturant.description %></p>
+      <p><a href="<%= resturant.website %>">View Website</a></p>
+    </main>
+  </body>
+</html>
