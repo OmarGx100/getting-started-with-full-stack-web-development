@@ -19,5 +19,3 @@ Through this project, I explored essential concepts such as:
 This project was a great introduction to full-stack web development, and I’m excited to keep learning and improving! 🚀  
 
 ---
-
-Let me know if you want any tweaks! 😊
